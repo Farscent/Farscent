@@ -1,9 +1,12 @@
 ## Hello, thanks for coming by my profile!👋
-  <hr>
   My name is Farhan, and I'm currently a student of Computer Science at Gadjah Mada University. 
   I am deeply passionate about the transformative potential of Artificial Intelligence (AI), Machine Learning (ML), and Software Engineering. 
   
 ## You can contact me here!
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/farhnnad1)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-adiwidya-pradana-44181b320/)
+[![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/farhanadiwidyap)
+[![stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/22308018/nephele12)
 
 <!--
 **Farscent/Farscent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
