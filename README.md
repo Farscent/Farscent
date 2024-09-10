@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello, thanks for coming by my profile!👋
+  <hr>
+  My name is Farhan, and I'm currently a student of Computer Science at Gadjah Mada University. 
+  I am deeply passionate about the transformative potential of Artificial Intelligence (AI), Machine Learning (ML), and Software Engineering. 
+  
+## You can contact me here!
 
 <!--
 **Farscent/Farscent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
