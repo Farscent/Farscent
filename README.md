@@ -1,6 +1,9 @@
 ## Hello, thanks for coming by my profile!👋
   My name is Farhan, and I'm currently a student of Computer Science at Gadjah Mada University. 
   I am deeply passionate about the transformative potential of Artificial Intelligence (AI), Machine Learning (ML), and Software Engineering. 
+
+  
+  Driven by a curiosity for how technology can shape the future, I am committed to continuously enhancing my skills and knowledge!
   
 ## You can contact me here!
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/farhnnad1/)
