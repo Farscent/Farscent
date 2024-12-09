@@ -1,5 +1,5 @@
 ## Hello, thanks for coming by my profile!👋
-  My name is Farhan, and I'm currently a student of Computer Science at Gadjah Mada University. 
+  My name is Farhan, and I'm currently a student of Computer Science at Universitas Gadjah Mada.
   I am deeply passionate about the transformative potential of Artificial Intelligence (AI), Machine Learning (ML), and Software Engineering. 
 
   
