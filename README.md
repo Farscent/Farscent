@@ -1,6 +1,6 @@
 # Hey, I'm Farhan!
 
-**Computer Science student at Universitas Gadjah Mada** 🇮🇩  
+**Computer Science student at Universitas Gadjah Mada** 🇮🇩
 *Curious about data, passionate about problem-solving, and always learning something new.*
 
 I enjoy turning raw data into meaningful insights and exploring how machine learning can solve real-world problems. I learn best by building, experimenting, and collaborating with others.
