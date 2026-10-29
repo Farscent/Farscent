@@ -1,8 +1,6 @@
 ## Hi, I'm Farhan 👋
 
-I'm a Computer Science student at **Universitas Gadjah Mada**, interested in **data science, data analysis, and the use of Python to understand real-world problems**.
-
-I'm building my foundations in data cleaning, exploratory analysis, statistics, and machine learning. I'm also interested in stocks and capital markets, including how to analyze price movements, returns, and risk.
+I'm a Computer Science student at **Universitas Gadjah Mada**, I'm really passionate about solving problems and I enjoy learning! Interested in data science, data analysis.
 
 ### Connect with me
 
