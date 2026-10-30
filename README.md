@@ -22,7 +22,7 @@ I enjoy connecting the dots between **data, technology, and people**—turning r
 ### ⚡ A few fun facts
 
 - 🎤 I helped teach **80+ high school students** the basics of Python, data analysis, and machine learning at **Computer Science Expo 2025**.
-- 🌱 I co-led a **24-person core team** at **GDGoC UGM**, helping serve a community of **460+ members** and organize **12 major tech events**.
+- 🌱 I co-led a **24-person core team** at **Google Developer Groups on Campus UGM**, helping serve a community of **460+ members** and organize **12 major tech events**.
 - 🕵️ I've been behind the scenes of a Kaggle competition too—testing the **Data Royale 2025** pipeline and building a baseline notebook for participants.
 - 🧩 I enjoy both sides of a challenge: **building the technical solution** and **figuring out why it matters**. My experiences span data research, product management, community building, and consulting.
 
